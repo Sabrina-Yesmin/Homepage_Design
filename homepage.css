@@ -1,0 +1,29 @@
+.navbar{
+          overflow: hidden;
+          background-color: red;
+}
+.navbar a{
+          float: left;
+          display: block;
+          color: black;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+}
+.navbar a:hover{
+          background-color: purple;
+          color: black;
+}
+.content{
+          background-size: cover;
+          background-position: center;
+          text-align: center;
+          height: auto;
+          color: red;
+          background-color: black;
+          padding: 10px;
+}
+.footer{
+          background-color: royalblue;
+          padding: 10px;
+}
